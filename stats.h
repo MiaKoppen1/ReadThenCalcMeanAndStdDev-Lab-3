@@ -16,15 +16,15 @@ class stats
 
 			//method declarations
 
-			double intSqrdDiv();
+			float intSqrdDiv();
 
-			double standardDeviation();
+			float standardDeviation();
 	
-			double calculateMean();
+			float calculateMean();
 
-			double sqrt_val();
+			float sqrt_val();
 
-			double intSqrd();
+			float intSqrd();
 
 		};
 
